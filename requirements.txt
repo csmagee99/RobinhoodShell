@@ -1,4 +1,4 @@
-requests>=2.20.0
+requests>=2.31.0
 six>=1.10.0,<=1.11.0
 colorclass
 terminaltables
@@ -6,3 +6,5 @@ blessed
 #enum
 colorclass
 python-dateutil
+certifi>=2023.7.22 # not directly required, pinned by Snyk to avoid a vulnerability
+idna>=3.7 # not directly required, pinned by Snyk to avoid a vulnerability
