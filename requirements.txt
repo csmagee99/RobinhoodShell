@@ -1,4 +1,4 @@
-requests>=2.20.0
+requests>=2.32.0
 six>=1.10.0,<=1.11.0
 colorclass
 terminaltables
